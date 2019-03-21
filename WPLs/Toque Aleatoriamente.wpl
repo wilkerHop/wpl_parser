@@ -1,0 +1,24 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.162"/>
+        <meta name="ItemCount" content="12"/>
+        <title>Toque Aleatoriamente</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\U-Y\Who, The\1971 - The Who - Meaty Beaty Big And Bouncy (24-96)\B7 - I&apos;m A Boy.flac" tid="{896A246B-E77C-407A-9E6E-A973B1BFC6A4}"/>
+            <media src="..\..\..\Música\Artistas\S\Supercombo\Singles\2015 - Amianto (Single)\01 - Amianto.mp3" tid="{09049640-DF51-4560-9BD7-2574F1D30A16}"/>
+            <media src="..\..\..\Música\Artistas\K\Killers, The\2012 - Battle Born\04 - Here with Me.mp3" tid="{F3281575-8ABE-49B8-825E-0A1CED9BEF76}"/>
+            <media src="..\..\..\Música\Artistas\S\Strokes, The\Albums\2003 - Room On Fire\06 - Between Love &amp; Hate.mp3" cid="{DE156577-E3E6-4DEF-A792-96D529207B01}" tid="{292DEBC2-677B-49FC-B454-5C69A4E3EA83}"/>
+            <media src="..\..\..\Música\Aleatórias\a-ha - Take On Me.mp3" tid="{D615C649-76B4-4E5B-B2BC-778E98A0E7AF}"/>
+            <media src="..\..\..\Música\Artistas\N-Q\Nine Inch Nails\[1994] The Downward Spiral (Japan Release)\15 - Hurt.mp3" tid="{1B728DD8-D15E-4DD2-878E-2F50E5F5AF83}"/>
+            <media src="..\..\..\Música\Artistas\S\Supercombo\Albuns\2014 - Amianto\10 - Memorial.mp3" tid="{120F2193-05F9-4D60-BD11-AB25D1181D3E}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Who, The\1978 Who Are You\09 - Who Are You.mp3" cid="{FC4854A9-1E49-4D41-82A6-722C34AA84A1}" tid="{02273742-00EC-446B-BA8E-2FF318FB9299}"/>
+            <media src="..\..\..\Música\Artistas\A\Arctic Monkeys\Albums (CD Original)\2007 - Favourite Worst Nightmare - (320 kbps)\01. Brianstorm.mp3" cid="{1AB707E1-CA91-4754-A725-AD655C7D4933}" tid="{4C57EC68-A5CE-41A6-A72D-1DFC77FD0D31}"/>
+            <media src="..\..\..\Música\Artistas\A\Awolnation\2013 - Megalithic Symphony [2CD Deluxe Edition]\CD1\07-awolnation-guilty_filthy_soul.mp3" cid="{5E9F4F85-F25C-4C4B-9A83-6444CA194A74}" tid="{BB404CFF-1033-4FE8-BBE0-4DAE0B70FD1A}"/>
+            <media src="..\..\..\Música\Artistas\A\Arctic Monkeys\Albums (CD Original)\2007 - Favourite Worst Nightmare - (320 kbps)\04. Balaclava.mp3" cid="{997FC4C1-52E2-4B2D-8E58-349D82EFF4AC}" tid="{EB5C5453-4619-4A77-B080-F8D6F0F941AC}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2010) - Nero\14 Garoto Nero.mp3" tid="{6C0D42B3-1912-4409-BE56-033FE18C0E91}"/>
+        </seq>
+    </body>
+</smil>

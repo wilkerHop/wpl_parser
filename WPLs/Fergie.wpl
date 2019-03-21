@@ -1,0 +1,19 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14279.1000"/>
+        <meta name="ItemCount" content="7"/>
+        <title>Fergie</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\B\Black Eyed Peas, The\Studio Albums\2005 - Monkey Business (Special Edition)\04- Don&apos;t Lie.m4a" tid="{68B02AFD-9980-488B-9A35-01B5EB9848D6}"/>
+            <media src="..\..\..\Música\Artistas\E-F\Fergie\Albums\2007 - The Dutchess (Japan Edition)\10 - Big Girls Don&apos;t Cry (Personal).mp3" tid="{25370A0E-ABB6-4059-9D5F-081EAD33A0C1}"/>
+            <media src="..\..\..\Música\Artistas\B\Black Eyed Peas, The\Studio Albums\2010 - The Beginning &amp; The Best Of The E.N.D. (Deluxe Version)\1-14 Just Can&apos;t Get Enough.m4a" tid="{DE0F7818-14D7-465F-9A03-565BA67506C4}"/>
+            <media src="..\..\..\Música\Artistas\B\Black Eyed Peas, The\Studio Albums\2008 - The E.N.D. (The Energy Never Dies) [Expanded Version]\1-03 Meet Me Halfway.m4a" tid="{4BA143EF-36B8-4C8F-90E8-CCCD7B1D03C2}"/>
+            <media src="..\..\..\Música\Artistas\E-F\Fergie\Albums\2007 - The Dutchess (Japan Edition)\01 - Fergalicious (feat. Will.I.Am).mp3" tid="{61A4EE90-BCF8-4EBF-93A0-9FB50632071D}"/>
+            <media src="..\..\..\Música\Artistas\B\Black Eyed Peas, The\Compilations\2005 - iTunes Originals\12 Where Is the Love_ (iTunes Originals Version).m4a" tid="{247CBCCE-D21B-4D77-8F65-5A8827F4E9B6}"/>
+            <media src="..\..\..\Música\Artistas\B\Black Eyed Peas, The\Studio Albums\2003 - Elephunk\05- Shut Up.m4a" tid="{E015E7E7-5703-4A90-953D-4FD5458999EF}"/>
+        </seq>
+    </body>
+</smil>

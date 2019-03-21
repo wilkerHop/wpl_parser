@@ -1,0 +1,25 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.9600.17415"/>
+        <meta name="ItemCount" content="6"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>Just Another More Thoughtful Day...</title>
+    </head>
+    <body>
+        <seq>
+            <media src="D:\Música\Erudito\Taylor Davis - Game of Thrones Theme.mp3" tid="{66A91CBF-7030-498A-833E-F22A9E7BF917}"/>
+            <media src="D:\Música\Artistas\N-Q\Pink Floyd\1975 Wish You Were Here\04 Wish You Were Here.mp3" tid="{553A959E-FE85-4B70-B4C1-A0B94DF395C7}"/>
+            <media src="D:\Música\Artistas\N-Q\Nirvana\Singles Box\All Apologies [Single]\01-All Apologies [LP Version]-Nirvana-All Apologies [Single].mp3" cid="{A5FA0AC4-7B65-45CB-BF75-90D3731AF915}" tid="{27B350C3-7792-49C9-990E-67F4E8B42122}"/>
+            <media src="D:\Música\Artistas\S\Skrillex\01 - EPs &amp; Singles\2010 - Scary Monsters And Nice Sprites (CD EP) - (320 kbps)\04. All I Ask Of You (Feat. Penny).mp3" tid="{EDBCCEAB-070B-4184-B9F3-AAE6D2EC91DB}"/>
+            <media src="D:\Música\Artistas\U-Y\Young the Giant\2014 - Mind Over Matter\10-young_the_giant-eros.mp3" cid="{A01FAE17-9AC5-4856-AB7D-D225AFEC36C3}" tid="{FD8F8CCD-F7F3-4B2E-8711-902C95071D1C}"/>
+            <media src="D:\Música\Artistas\U-Y\WEEZER\[1994] Weezer (The Blue Album) [Deluxe Edition 2CD]\CD 1\07 - Say It Ain&apos;t So.mp3" cid="{B3B25F69-ECE5-49C6-AE83-4F7BAF973035}" tid="{0676A9F7-C9F9-4D85-ACD6-24A87A321834}"/>
+            <media src="D:\Música\Artistas\G-J\Guns N&apos; Roses\2000 - Best Ballads\05. Since I Don&apos;t Have You.mp3" tid="{2852E5CB-AB6F-4CF1-BDF8-5091BD37B526}"/>
+        </seq>
+    </body>
+</smil>

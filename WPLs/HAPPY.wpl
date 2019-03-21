@@ -1,0 +1,18 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.9600.17415"/>
+        <meta name="ItemCount" content="6"/>
+        <title>HAPPY</title>
+    </head>
+    <body>
+        <seq>
+            <media src="D:\Música\Artistas\S\Skrillex\01 - EPs &amp; Singles\2015 - Present Jack Ü feat Diplo (iTunes)\05. To Ü (feat. AlunaGeorge).m4a" tid="{5DEAA3CC-C5A7-4F2E-8B9D-56B1E42556F0}"/>
+            <media src="D:\Música\Artistas\S\Skrillex\02 - Compilations\2014 - Recess Album\02 Recess (feat. Kill The Noise &amp; Fatman Scoop).mp3" cid="{DDEC3824-C31B-4E8A-8E7D-CC222BF4D0DF}" tid="{6AA1801A-8F6D-41A0-941D-2D36EC3897E9}"/>
+            <media src="D:\Música\The Nest\[NEST049]\ShakeLine (ft. FlyBoi Keno &amp; Four Color Zack) [NEST049].mp3" tid="{2CBD3AE5-6A32-4125-BA8E-9FA032266C81}"/>
+            <media src="D:\Música\The Nest\[NEST052]\01 I&apos;ll Be Your Reason [NEST052].mp3" tid="{9AB426CA-5725-4740-8EC3-7D80663F8FA1}"/>
+            <media src="D:\Música\The Nest\[NEST047]\01 We Rise [NEST047].mp3" tid="{4824AB0C-851A-4FCE-BAF0-3EF549FC48DD}"/>
+            <media src="D:\Música\The Nest\Summer Trees.mp3" tid="{1B46606E-9DF6-496E-8DE2-F5C2326E2F2B}"/>
+        </seq>
+    </body>
+</smil>

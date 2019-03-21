@@ -1,0 +1,27 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10240.16397"/>
+        <meta name="ItemCount" content="8"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>I Am - I</title>
+    </head>
+    <body>
+        <seq>
+            <media src="D:\Música\Aleatórias\01 i put a spell on you.mp3" serviceId="{6B6CC708-0100-11DB-89CA-0019B92A3933}" albumTitle="Fifty Shades of Grey (Original Motion Picture Soundtrack)" albumArtist="Various Artists" trackTitle="I Put a Spell On You (Fifty Shades of Grey)" trackArtist="Annie Lennox" duration="210782" cid="{9F7127D9-F837-46DF-BB43-F7FD73A2D494}" tid="{7F91862D-B1B9-42EE-A51C-09D4B2A557F3}"/>
+            <media src="D:\Música\Aleatórias\Rock\The Knack - My Sharona.mp3" albumTitle="Reality Bites" albumArtist="Soundtrack" trackTitle="My Sharona" trackArtist="The Knack" duration="296351" cid="{1440BD02-3DF7-4F1F-B74B-F22FE94B21D6}" tid="{A7BA7138-C953-46E8-805C-EECD503498C5}"/>
+            <media src="D:\Música\Artistas\R\Regina Spektor\2012 - What We Saw from the Cheap Seats\03 Don&apos;t Leave Me (Ne Me Quitte Pas).mp3" albumTitle="What We Saw from the Cheap Seats" albumArtist="Regina Spektor" trackTitle="Don&apos;t Leave Me (Ne Me Quitte Pas)" trackArtist="Regina Spektor" duration="219898" cid="{776F3939-2DB8-47EA-85B8-5C7DD9C9F2F9}" tid="{DA970A0D-ECF8-4E72-A0DF-6D8F16272788}"/>
+            <media src="D:\Música\Artistas\M\Maroon 5\[2002] Songs About Jane\03 - Shiver.mp3" tid="{A9BFD3E9-9CC3-45FF-AE63-46D896481595}"/>
+            <media src="D:\Música\Artistas\A\Awolnation\2013 - Megalithic Symphony [2CD Deluxe Edition]\CD1\12-awolnation-not_your_fault.mp3" albumTitle="Megalithic Symphony" albumArtist="Awolnation" trackTitle="Not Your Fault" trackArtist="Awolnation" duration="242520" cid="{238BF362-22E8-4CDF-B7BD-1B59C6C5C6FF}" tid="{210DB52D-807F-44E1-B24E-0DEEC991C9A2}"/>
+            <media src="D:\Música\Artistas\U-Y\Young the Giant\2014 - Mind Over Matter\10-young_the_giant-eros.mp3" serviceId="{71281108-0100-11DB-89CA-0019B92A3933}" albumTitle="Mind Over Matter" albumArtist="Young the Giant" trackTitle="Eros" trackArtist="Young the Giant" duration="250775" cid="{A01FAE17-9AC5-4856-AB7D-D225AFEC36C3}" tid="{FD8F8CCD-F7F3-4B2E-8711-902C95071D1C}"/>
+            <media src="D:\Música\Artistas\E-F\Ed Sheeran\Albums\[2011] + (Deluxe Edition)\03. UNI.mp3" serviceId="{C211F006-0100-11DB-89CA-0019B92A3933}" albumTitle="+ (Deluxe Edition)" albumArtist="Ed Sheeran" trackTitle="UNI" trackArtist="Ed Sheeran" duration="228832" cid="{2B8ABDB1-F909-4797-B350-DC4DD31DEA3F}" tid="{646491D0-268A-4EAD-B042-4535ED30D576}"/>
+            <media src="D:\Música\Artistas\D\Die Antwoord\Die Antwoord - 2012 - Ten$ion\02. I Fink U Freeky.mp3" serviceId="{705AF407-0100-11DB-89CA-0019B92A3933}" albumTitle="Ten$ion" albumArtist="Die Antwoord" trackTitle="I Fink U Freeky" trackArtist="Die Antwoord" duration="280973" tid="{CE56C50F-E8A2-4DE0-9ABA-A247E690AF63}"/>
+            <media src="D:\Música\Artistas\G-J\Guns N&apos; Roses\1991 - Use Your Illusion II\12. You Could Be Mine.mp3" serviceId="{FBBB0B00-0100-11DB-89CA-0019B92A3933}" albumTitle="Use Your Illusion II" albumArtist="Guns N&apos; Roses" trackTitle="You Could Be Mine" trackArtist="Guns N&apos; Roses" duration="343345" cid="{4EE85873-1CED-48AB-BBE4-E34FEBAF54DA}" tid="{4B75B96E-04F7-4351-86F8-5B3E4DE2D614}"/>
+        </seq>
+    </body>
+</smil>

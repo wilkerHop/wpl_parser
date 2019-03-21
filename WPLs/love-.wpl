@@ -1,0 +1,18 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10240.16397"/>
+        <meta name="ItemCount" content="6"/>
+        <title>Love?</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\B\Bloc Party\1 - Studio Albums (320 kbps)\2005 - Silent Alarm\02 Helicopter.mp3" tid="{99D58DBD-1630-4498-8112-D485E0252D03}"/>
+            <media src="..\..\..\Música\Artistas\B\Bon Jovi\1986 Slippery when wet\2.-You give love a bad name.mp3" cid="{1D1C8CBB-A591-4BB2-94DC-F004A455F277}" tid="{D2C7E654-E6C3-4735-AD70-1B41E42925C6}"/>
+            <media src="..\..\..\Música\Artistas\B\Bush\(1994) Sixteen Stone\07. Bush - Machinehead.mp3" cid="{5C92D7E5-DF68-411A-B2F5-056879AE769D}" tid="{5F5C6D3A-B6A8-412E-B169-46B2D5EFAD6F}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Young the Giant\2014 - Mind Over Matter\10-young_the_giant-eros.mp3" cid="{A01FAE17-9AC5-4856-AB7D-D225AFEC36C3}" tid="{FD8F8CCD-F7F3-4B2E-8711-902C95071D1C}"/>
+            <media src="..\..\..\Música\Artistas\R\Regina Spektor\You&apos;ve Got Time.mp3" cid="{6E1F0D89-9B61-40C7-9521-BBBF582EE648}" tid="{151C30F4-1BE9-442B-9FEA-A5763B93245E}"/>
+            <media src="..\..\..\Música\Artistas\L\Linkin Park\Albums\03 - Meteora (2003)\07 - Faint.mp3" cid="{49C983C3-CA19-4120-870D-A2C61994DCE7}" tid="{2DBB1874-AF02-4690-9C33-6BF40AF7B199}"/>
+        </seq>
+    </body>
+</smil>

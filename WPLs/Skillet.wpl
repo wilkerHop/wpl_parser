@@ -1,0 +1,28 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.0"/>
+        <meta name="ItemCount" content="16"/>
+        <title>Skillet</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[1996] Skillet\01 - I Can.mp3" cid="{8A237C6C-350B-434D-8BCC-EAA5D7B451E8}" tid="{7055538A-E587-43F0-9CC8-A1BD81C401D3}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2013] Rise\02 - Sick Of It.mp3" cid="{66C88B92-589B-4F35-8566-06DD6BC26D49}" tid="{44B36B5A-72E6-4FA5-B99B-56E7547872FC}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2001] Alien Youth\05 - Eating Me Away.mp3" cid="{FC9DCD2D-564E-4ABC-AAF7-D5CCF0CA117A}" tid="{3F8AA5BF-274C-43AA-9C39-8BBE8F4AABAD}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2004] Collide [Enhanced]\02 - Savior.mp3" cid="{73B42B56-D7C1-4F22-9D4A-DC8EAE643883}" tid="{07C7B774-B0E8-42EF-82E4-0D6A4EE54D85}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2009] Awake (Deluxe Edition)\02 - Monster.mp3" tid="{B73ABCBE-9E9E-43F9-A801-FC76A415D374}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2006] Comatose (Deluxe Edition)\10 - Whispers in the Dark.mp3" cid="{06C5FC32-DD2F-42AF-AB28-7740791E3747}" tid="{E1A94840-5E34-4F32-A94F-19A66DCA5A73}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2013] Rise\04 - Not Gonna Die.mp3" cid="{866F06A4-6597-4893-B6A0-8383E6557EB6}" tid="{74B8A478-2598-4C21-88F8-F4E9C1BF53B1}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2006] Comatose (Deluxe Edition)\01 - Rebirthing.mp3" cid="{A674A779-E9BC-4EA0-A1E6-DED6E6B63AA6}" tid="{C6E32B27-465A-4427-9C6B-236D303BD131}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2009] Awake (Deluxe Edition)\04 - Awake And Alive.mp3" tid="{3527DA17-9E57-41BF-A12D-0C1C7A86EDB0}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2004] Collide [Enhanced]\07 - Fingernails.mp3" cid="{6B7C3A21-BC53-43FF-8AFE-19044C2AEFC7}" tid="{D2622E31-0D92-41CA-81E4-82606C425438}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2013] Rise\08 - Salvation.mp3" cid="{B9B94E73-8646-4AB9-9DCE-E72FAC8AA80C}" tid="{FDDF478C-D1EA-48E3-9F63-013BDF14FB64}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2006] Comatose (Deluxe Edition)\05 - Comatose.mp3" cid="{9C9D75A4-7480-427F-A017-0FB0F0524A23}" tid="{5FE634EF-FA27-4AD7-B1AA-D415F3439970}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2006] Comatose (Deluxe Edition)\08 - Falling Inside the Black.mp3" cid="{F811C519-771C-4CC9-998F-8BB41FED27AB}" tid="{B9B0DA99-B236-4233-9FF4-FCADA52F734C}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2004] Collide [Enhanced]\03 - Open Wounds.mp3" cid="{6154A1F6-56BE-4A9A-98D2-A2E76E03BE45}" tid="{7D340820-7CDE-40B1-9F6C-4FEED611D583}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2009] Awake (Deluxe Edition)\01 - Hero.mp3" tid="{AFAFD9B4-1392-484D-8EA9-E2B702A227D6}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2013] Rise\01 - Rise.mp3" cid="{800DBE79-ED17-4C89-B964-05500AB3E39B}" tid="{FFC6149D-CA4C-4AED-B5FA-1D410FEF08B4}"/>
+        </seq>
+    </body>
+</smil>

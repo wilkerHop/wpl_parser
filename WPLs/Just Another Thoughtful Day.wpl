@@ -1,0 +1,21 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10240.16397"/>
+        <meta name="ItemCount" content="6"/>
+        <author/>
+        <title>Just Another Thoughtful Day</title>
+    </head>
+    <body>
+        <seq>
+            <media src="D:\Música\Aleatórias\Meddle.mp3" tid="{CE7DB3A2-2F87-4A8C-A348-98DFE9B24A0D}"/>
+            <media src="D:\Música\Aleatórias\Calvin Harris - Summer.mp3" cid="{771F6A69-AA5B-4A3E-A898-6CDEA64E95FF}" tid="{4C0487CA-71AB-4B63-9A23-CB959D416970}"/>
+            <media src="D:\Música\Artistas\B\Broods - Evergreen\06 Never Gonna Change.mp3" cid="{D9BD6FCA-892E-487A-8F57-A62C23A021B4}" tid="{98E1234D-394D-47C3-B5A5-EE049BD51A27}"/>
+            <media src="D:\Música\Artistas\S\Skrillex\03 - Miscellaneous\2009-2013 - Other Songs &amp; Remixes\10. Casxio - Seventeen (Skrillex Remix).mp3" cid="{902B79CC-2D25-40B3-BC8B-9311087095A4}" tid="{EF8A00E0-1E15-422D-BEB5-ECB254DAFA71}"/>
+            <media src="D:\Música\Artistas\G-J\Gorillaz\[2005]Demon Days\06 Feel Good Inc.mp3" cid="{1F800502-C010-42AC-A341-92584EDB5F9E}" tid="{778EE2B9-678C-42D3-B952-5194ECC4B1CC}"/>
+            <media src="D:\Música\Aleatórias\rihanna- where have you been.mp3" tid="{7F46403A-967C-48E1-8954-FB7D5842C7F9}"/>
+            <media src="D:\Música\Artistas\D\David Guetta\2009 - Sexy Bitch (feat. Akon)\David Guetta feat. Akon - Sexy bitch.mp3" cid="{02CD762E-4FB4-4CF3-9F86-FF6B561BA4A7}" tid="{597F9AE9-950B-4F27-AD9F-120E50D333C0}"/>
+            <media src="D:\Música\Artistas\R\Rudimental\Home (Deluxe Edition)\Rudimental Feat Ella Eyre - Waiting All Night.mp3" tid="{4C7C8A41-B277-4991-B07E-0224160A2EA6}"/>
+        </seq>
+    </body>
+</smil>

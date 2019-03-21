@@ -1,0 +1,18 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.162"/>
+        <meta name="ItemCount" content="4"/>
+        <author/>
+        <title>Pulsos</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\G-H\Gram\Albuns\2004 - Gram\01 - Você Pode Ir Na Janela.mp3" cid="{6106C597-AA05-427C-9FDB-151F0C2522D2}" tid="{E3EA70B5-64BA-4AA9-93DB-99CA8C72160F}"/>
+            <media src="..\..\..\Música\Artistas\S\Supercombo\Albuns\2014 - Amianto\12 - Amianto.mp3" tid="{A71887A7-2778-4126-A23F-6F26AD7EA26C}"/>
+            <media src="..\..\..\Música\Artistas\T\Tópaz\2007 - Outra Direção\12. Testamento.mp3" tid="{A7BDA1E5-EBA3-4330-81BB-23C1444D1E70}"/>
+            <media src="..\..\..\Música\Artistas\L\Legião urbana\1991 V\07-Vento No Litoral.mp3" cid="{F7D49221-2969-4D6C-80A2-3936D84009E4}" tid="{2695BCF7-01F1-4613-A201-B039B2CFBBF1}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2010) - Nero\14 Garoto Nero.mp3" tid="{6C0D42B3-1912-4409-BE56-033FE18C0E91}"/>
+        </seq>
+    </body>
+</smil>

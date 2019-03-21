@@ -1,0 +1,27 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.0"/>
+        <meta name="ItemCount" content="9"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>I Am - II</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\K\Kooks, The\[2006] Inside In, Inside Out\10 - I Want You.mp3" tid="{33AD167A-7E9F-4F18-9321-EC7F6801245C}" cid="{7BBCA9E1-A0F0-4D01-8E67-F29C9F77F6E1}"/>
+            <media src="..\..\..\Música\Aleatórias\Pop\clean bandit - rather be (feat jess glynne).mp3" tid="{AD073BDD-D782-42B2-B320-473749DF3C4F}"/>
+            <media src="..\..\..\Música\Artistas\G-J\Imagine Dragons\Album\2013 - Night Visions (UK Deluxe Edition) - (320 kbps)\18 - Imagine Dragons - Selene.mp3" tid="{ABDE8FFA-4811-4683-99BB-93694D095EE5}"/>
+            <media src="..\..\..\Música\Artistas\S\Skillet\[2006] Comatose (Deluxe Edition)\09 - Say Goodbye.mp3" tid="{24665762-9F03-43F3-ABAB-25498C0A6B06}" cid="{6A21624E-E990-46C8-9C41-5FAB45CA822C}"/>
+            <media src="..\..\..\Música\Aleatórias\Pop\10 - black widow(2).mp3" cid="{559BA166-06A2-4707-8084-E0D3CD56ADA5}" tid="{66D9FF53-2032-4BEA-B6CF-3670DF266317}"/>
+            <media src="..\..\..\Música\Artistas\M\Magic!\2014 - Don&apos;t Kill the Magic\09 Little Girl Big World.mp3" cid="{41A29536-16A5-4642-ADBD-AFAA7C729681}" tid="{09B7CCC8-910B-4060-B8CC-64083736B554}"/>
+            <media src="..\..\..\Música\Artistas\R\Rudimental\Home (Deluxe Edition)\Rudimental Feat Ella Eyre - Waiting All Night.mp3" tid="{4C7C8A41-B277-4991-B07E-0224160A2EA6}"/>
+            <media src="..\..\..\Música\Artistas\L\Linkin Park\Albums\01 - Hybrid Theory (2000)\03 - With You.mp3" cid="{16F33EE9-DCE0-4396-936F-7ED298109299}" tid="{974363B6-DAA8-4DDA-9913-C977039A32C9}"/>
+            <media src="..\..\..\Música\Aleatórias\Bonnie Taylor - Total Eclipse Of The Heart.mp3" cid="{DC1D4C6E-F797-488F-8950-62299CA5E19A}" tid="{6AB984C0-7E32-415E-A336-43FDD9ED092D}"/>
+        </seq>
+    </body>
+</smil>

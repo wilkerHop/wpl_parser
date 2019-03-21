@@ -1,0 +1,18 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.9600.17415"/>
+        <meta name="ItemCount" content="6"/>
+        <title>Calm Water</title>
+    </head>
+    <body>
+        <seq>
+            <media src="D:\Música\Erudito\The Last of Us   Main Theme  (Synthesia).mp3" tid="{2B1F936B-D388-4E00-846C-43552A919CCC}"/>
+            <media src="D:\Música\Erudito\Toshiro Masuda   Alone.mp3" tid="{50665204-33F2-459A-BB60-3F7197F1B004}"/>
+            <media src="D:\Música\Erudito\Dire, Dire Docks   Super Mario 64  (Synthesia).mp3" cid="{9111197B-8877-4B45-A88A-6480C4007EC4}" tid="{443A87CA-8B67-4C67-A6B7-2CAE53ED27B6}"/>
+            <media src="D:\Música\Erudito\pachebel - canon de pachelbel158.mp3" cid="{B5A9B900-BDE2-4E6A-BC69-4DEB51EAD1D2}" tid="{382AD9ED-35D9-4422-9D64-23E17AD876AA}"/>
+            <media src="D:\Música\Erudito\Promise.mp3" tid="{138F2F66-7B5A-4851-ACFF-25AB47DF8AA4}"/>
+            <media src="D:\Música\Erudito\The Last of Us - Music Theme.mp3" tid="{28686398-3BB0-4CB2-A5EB-CDDF255C64C4}"/>
+        </seq>
+    </body>
+</smil>

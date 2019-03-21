@@ -1,0 +1,16 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14279.1000"/>
+        <meta name="ItemCount" content="4"/>
+        <title>Memor</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\U-Y\Weezer\[2010] Hurley [Deluxe Edition]\01 - Memories.mp3" tid="{7F5EE37E-08C1-4D31-8E9D-8672A0E8DE13}"/>
+            <media src="..\..\..\Música\Artistas\S\Supercombo\Albuns\2014 - Amianto\10 - Memorial.mp3" tid="{120F2193-05F9-4D60-BD11-AB25D1181D3E}"/>
+            <media src="..\..\..\Música\Artistas\N-Q\Pitty\Anacrônico – 2005\04. Memórias.mp3" cid="{5CCBEA1B-C43E-4390-A28D-C44635E20A59}" tid="{7823C5CA-4967-404F-B486-BCAAF3887C8E}"/>
+            <media src="..\..\..\Música\Artistas\D\David Guetta\2009 - One Love [320 kBit sec]\04  David Guetta - Memories [Feat. Kid Cudi].mp3" tid="{A444DD7F-6AC5-48BB-8F2C-628D6299E53A}"/>
+        </seq>
+    </body>
+</smil>

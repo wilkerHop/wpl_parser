@@ -1,0 +1,17 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.162"/>
+        <meta name="ItemCount" content="0"/>
+        <author/>
+        <title>mmm</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Aleatórias\Remixes\Chris Lake ft Jareth   Helium (Tom Swoon Remix) [Free].mp3" tid="{076DC83F-B30F-4A1E-8306-9CB1EC4D0FF8}"/>
+            <media src="..\..\..\Música\Aleatórias\Remixes\Elephante   Closer ft Bishøp [Premiere].mp3" tid="{185D2893-DE0C-4643-B1A9-4A17FDA82EAE}"/>
+            <media src="..\..\..\Música\Aleatórias\Pop\No Way Out\Mashd N Kutcher   No Way Out (feat. Shannon Saunders).mp3" tid="{ABD7148F-2EAF-4B0A-81A6-D0680BE60E11}"/>
+            <media src="..\..\..\Música\Aleatórias\Borgore  Sikdope   Unicorn Zombie Apocalypse [OUT NOW].mp3" tid="{968106F5-80A4-4011-A570-8CBF57296FB9}"/>
+        </seq>
+    </body>
+</smil>

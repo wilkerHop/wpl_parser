@@ -1,0 +1,25 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.0"/>
+        <meta name="ItemCount" content="7"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>Fat Bombs</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Aleatórias\Remixes\the white stripes - seven nation army (the glitch mob remix).mp3" tid="{75E162E0-F655-44C4-B010-7F9C4C55E175}"/>
+            <media src="..\..\..\Música\Artistas\D\Die Antwoord\Die Antwoord - 2012 - Ten$ion\05. Fatty Boom Boom.mp3" serviceId="{735AF407-0100-11DB-89CA-0019B92A3933}" albumTitle="Ten$ion" albumArtist="Die Antwoord" trackTitle="Fatty Boom Boom" trackArtist="Die Antwoord" duration="226037" tid="{8B896A67-FE0B-4DA6-B004-262A4DA387EE}"/>
+            <media src="..\..\..\Música\Artistas\A\Awolnation\2011 - Remixes\Not Your Fault (Dubstep Remix by The Mr Ebbyman).mp3" albumTitle="Feel The Beat" albumArtist="TheMrEbbyman" trackTitle="Not Your Fault (Dubstep Remix by The Mr Ebbyman)" trackArtist="TheMrEbbyman" duration="268382" tid="{7CE6C3EB-AA85-488F-94A6-0D58F6B35815}"/>
+            <media src="..\..\..\Música\Artistas\G-J\Gorillaz\[2005]Demon Days\03 Kids With Guns.mp3" serviceId="{6B9A3106-0100-11DB-89CA-0019B92A3933}" albumTitle="Demon Days" albumArtist="Gorillaz" trackTitle="Kids With Guns" trackArtist="Gorillaz" duration="219245" cid="{90D44463-24A8-49D1-8F72-715820671A5F}" tid="{D2C4EF3D-1BF2-48CE-8AE3-F854F8318156}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2011) - Remixes\08 Cabeza de Vaca (Inka Remix ).mp3" albumTitle="Remixes" albumArtist="Maldita" trackTitle="Cabeza de Vaca (Inka Remix )" trackArtist="Maldita" duration="211487" tid="{77810536-EEF8-4F33-84C8-2948A3EF583B}"/>
+            <media src="..\..\..\Música\Artistas\S\Skrillex\01 - EPs &amp; Singles\2011 - More Monsters And Sprites (CD EP Promo) - (320 kbps)\01. First Of The Year (Equinox).mp3" serviceId="{D001D206-0100-11DB-89CA-0019B92A3933}" albumTitle="More Monsters And Sprites (CD EP Promo)" albumArtist="Skrillex" trackTitle="First Of The Year (Equinox)" trackArtist="Skrillex" duration="263575" cid="{D6321865-D039-4410-B46E-99B7CA4737CE}" tid="{EBCA362B-CD2D-4613-87F5-2683D31318F1}"/>
+            <media src="..\..\..\Música\Artistas\L\Linkin Park\Albums\02 - Reanimation (2002)\13 - Ppr-Kut (Cheapshot &amp; Jubacca ft. Rasco &amp; Planet Asia).mp3" tid="{4F3529A4-F81C-432A-92C6-F9FF5CFD67BB}"/>
+        </seq>
+    </body>
+</smil>

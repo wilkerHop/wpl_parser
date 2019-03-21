@@ -1,0 +1,22 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.0"/>
+        <meta name="ItemCount" content="10"/>
+        <title>Maldita</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2010) - Nero\06 Mania.mp3" tid="{C6B0E33B-A27A-4B55-A444-94B64FD4D23B}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2005) - Mortos Ao Amanhecer\03 Que Eu Odeio.mp3" tid="{ED40C88D-1019-4614-9672-876B224DEE77}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2011) - Remixes\05 Paraiso Perdido (Remix Funk).mp3" tid="{F5820AB9-10E1-495F-873A-D911EED40041}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2010) - Nero\12 Apocalipse Índigena.mp3" tid="{F86A83C2-3B30-4B54-8ED7-89507CA64674}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2007) - Paraíso Perdido\04 Passivo_Agressivo.mp3" tid="{DF20C191-DD1C-47A3-A7E3-7B729449C389}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2010) - Nero\09 Dissertação do papa sobre o crime seguido de orgia.mp3" tid="{4AA76F09-3EF6-4875-8FD8-653F5F1C4F79}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2010) - Nero\10 Nero.mp3" tid="{3D10E6F0-8547-4B4B-B9B0-A974B45671EA}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2012) - Montagem EP\Português\04_Se eu cair na sua casa.mp3" tid="{DA301845-AE93-42AF-897F-E6860438C904}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2005) - Mortos Ao Amanhecer\07 O Homem Do Rosto Cortado.mp3" tid="{701CDA95-E9FD-478D-8C6A-7EAA8FC1D605}"/>
+            <media src="..\..\..\Música\Artistas\M\Maldita\(2010) - Nero\01 Princípio Vital.mp3" tid="{C65C4B8D-5256-4E84-83D5-D2065685648F}"/>
+        </seq>
+    </body>
+</smil>

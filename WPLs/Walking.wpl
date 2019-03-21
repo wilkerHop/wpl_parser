@@ -1,0 +1,33 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.162"/>
+        <meta name="ItemCount" content="15"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>Walking</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Aleatórias\04 addicted to you.mp3" tid="{E1F762B0-FF45-4F9B-B1DF-7A9FA32D4A3E}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Weezer\[2014] Everything Will Be Alright In the End\02 - Back To The Shack.mp3" tid="{98C6A0AF-F9D8-441A-9471-5DD6734B412A}"/>
+            <media src="..\..\..\Música\Artistas\S\Strokes, The\Albums\2006 - First Impressions Of Earth\09 - Killing Lies.mp3" cid="{E8414408-B4F8-47A4-9D88-12B784171329}" tid="{64E84CA0-2073-4960-AFE7-3664EFF61886}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Weezer\[1996] Pinkerton\01 - Tired Of Sex.mp3" cid="{21AED1AF-9E6B-4617-B677-0D0E76B0A7CA}" tid="{5073FD8A-0BB1-4C32-B793-1DEDFEF2D1FE}"/>
+            <media src="..\..\..\Música\Artistas\N-Q\Nine Inch Nails\[1994] The Downward Spiral (Japan Release)\15 - Hurt.mp3" tid="{1B728DD8-D15E-4DD2-878E-2F50E5F5AF83}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Weezer\[2014] Everything Will Be Alright In the End\11 - I. The Waste Lands.mp3" tid="{C89B377A-D757-4083-81AF-F9F82032957F}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Weezer\[2014] Everything Will Be Alright In the End\12 - II. Anonymous.mp3" tid="{AD794881-36C5-41BF-9412-44D400ADFA69}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Weezer\[2014] Everything Will Be Alright In the End\13 - III. Return To Ithaka.mp3" tid="{024807A8-3506-4B95-AF09-0D3ABC81E529}"/>
+            <media src="..\..\..\Música\Artistas\S\Strokes, The\Albums\2003 - Room On Fire\10 - The End Has No End.mp3" cid="{2648D69C-29C8-40D7-A848-2B48E0181F06}" tid="{CB05B3AD-821E-40BD-8FC3-97DCE2CBBB18}"/>
+            <media src="..\..\..\Música\Artistas\B\Broods\2014 - Broods - Broods (EP)\02 Pretty Thing.mp3" tid="{D358B490-006D-467B-9E27-BE6334CB57DC}"/>
+            <media src="..\..\..\Música\Artistas\S\Strokes, The\Albums\2006 - First Impressions Of Earth\02 - Juicebox.mp3" cid="{74BD86CB-9CED-4504-B42C-38FAB7AF6E06}" tid="{F77335C4-8649-489C-A9EF-3B3C6366F5E9}"/>
+            <media src="..\..\..\Música\Aleatórias\avicii - the nights.mp3" tid="{4F016A13-307B-41FD-8748-89F7235EDB72}"/>
+            <media src="..\..\..\Música\Artistas\B\Bloc Party\1 - Studio Albums (320 kbps)\2005 - Silent Alarm\10 So Here We Are.mp3" tid="{12E6C484-4E22-4203-8356-4492E51592C5}"/>
+            <media src="..\..\..\Música\Artistas\S\Supercombo\Albuns\2014 - Amianto\10 - Memorial.mp3" tid="{120F2193-05F9-4D60-BD11-AB25D1181D3E}"/>
+            <media src="..\..\..\Música\Artistas\U-Y\Weezer\[2014] Everything Will Be Alright In the End\09 - Cleopatra.mp3" tid="{6546BB7A-1C75-4123-A4FA-2BEDF5D2589B}"/>
+        </seq>
+    </body>
+</smil>

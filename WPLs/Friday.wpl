@@ -1,0 +1,15 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10586.0"/>
+        <meta name="ItemCount" content="3"/>
+        <title>Friday</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Música\Aleatórias\Remixes\Razed in Black Cherub Rock.mp3" tid="{75AE943E-DFC4-4BAD-A576-04DAD91B3D30}"/>
+            <media src="..\..\..\Música\Artistas\L\Linkin Park\Albums\02 - Reanimation (2002)\19 - 1stp Klosr (The Humble Brothers ft. Jonathan Davis).mp3" tid="{E169A3D3-8A2A-446B-B92E-E15FE46AB230}"/>
+            <media src="..\..\..\Música\Artistas\N-Q\Nine Inch Nails\[1994] The Downward Spiral (Japan Release)\05 - Closer.mp3" tid="{58EE6FB2-EDA0-4BF2-8556-AFD70FFD8EBE}"/>
+        </seq>
+    </body>
+</smil>

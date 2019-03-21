@@ -1,0 +1,24 @@
+<?wpl version="1.0"?>
+<smil>
+  <head>
+    <guid>{6EF6A197-10EE-4AD2-A5FD-4A85BC5401E7}</guid>
+    <meta name="totalDuration" content="0" />
+    <meta name="ItemCount" content="10" />
+    <meta name="Generator" content="Xbox LIVE® on Windows® -- 1.6.1325.0" />
+    <title>Dog Bath</title>
+  </head>
+  <body>
+    <seq>
+      <media src="D:\Música\Artistas\A\Audioslave\2002 - Audioslave\07 - Shadow on the Sun.mp3" serviceId="{AC812D06-0100-11DB-89CA-0019B92A3933}" albumTitle="Audioslave" albumArtist="Audioslave" trackTitle="Shadow on the Sun" trackArtist="Audioslave" duration="343484" cid="{56BBDCD1-D502-4356-8212-3338AF5C252F}" tid="{0B2B59C5-1AF6-4BA3-8856-3E53A967CBBF}" />
+      <media src="D:\Música\Artistas\E-F\Foo Fighters\1997 - The Colour And The Shape\02 - Monkey Wrench.mp3" serviceId="{65835106-0100-11DB-89CA-0019B92A3933}" albumTitle="The Colour And The Shape" albumArtist="Foo Fighters" trackTitle="Monkey Wrench" trackArtist="Foo Fighters" duration="231471" cid="{889C51BA-80D2-4718-83E5-EAE3F0D07C20}" tid="{D49FC795-A151-4C5D-9DF5-2B5FEF0B530A}" />
+      <media src="D:\Música\Artistas\M\Magic!\2014 - Don't Kill the Magic\04 Stupid Me.mp3" serviceId="{33CC6308-0100-11DB-89CA-0019B92A3933}" albumTitle="Don't Kill the Magic" albumArtist="MAGIC!" trackTitle="Stupid Me" trackArtist="MAGIC!" duration="224078" cid="{34240D51-1626-4E84-A321-BA5913F917A9}" tid="{74F4F82B-1A3B-4F0F-A065-966AFD62A3C4}" />
+      <media src="D:\Música\Artistas\A\AC DC\1975. T.N.T\08. AC DC - Rocker.mp3" albumTitle="T.N.T." albumArtist="AC/DC" trackTitle="Rocker" trackArtist="AC/DC" duration="169743" cid="{848BCE3A-08EB-443C-B8C9-5D2E034AA907}" tid="{4F8D2AFB-F79F-41D9-A537-2D8A67E51441}" />
+      <media src="D:\Música\Artistas\R\Rise Against\[2007] The Sufferer And The Witness (Australian Edition)\06 - Prayer Of The Refugee.mp3" albumTitle="The Sufferer &amp; The Witness [Australian Tour Edition]" albumArtist="Rise Against" trackTitle="Prayer Of The Refugee" trackArtist="Rise Against" duration="199416" cid="{7F27D59A-C698-4A05-9242-65A506ADFD58}" tid="{B99B1A35-24B7-41B2-82E8-751252555CFB}" />
+      <media src="D:\Música\Artistas\B\Blur\Blur - Song 2.mp3" serviceId="{1D920000-0100-11DB-89CA-0019B92A3933}" albumTitle="Blur" albumArtist="Blur" trackTitle="Song 2" trackArtist="Blur" duration="123297" />
+      <media src="D:\Música\Artistas\B\Band Of Skulls\[2011] Sweet Sour\09 - Lies.mp3" serviceId="{7CB11207-0100-11DB-89CA-0019B92A3933}" albumTitle="Sweet Sour" albumArtist="Band of Skulls" trackTitle="Lies" trackArtist="Band of Skulls" duration="147774" />
+      <media src="D:\Música\Artistas\L\Living Colour\(1988) Vivid\01 - Living Colour - Cult of Personality.mp3" serviceId="{CDD92B06-0100-11DB-89CA-0019B92A3933}" albumTitle="Vivid" albumArtist="Living Colour" trackTitle="Cult of Personality" trackArtist="Living Colour" duration="294661" cid="{2DFA1A8D-7320-4296-920C-06CD88DB488D}" tid="{4FD779E0-E85D-4AE7-B253-59BDE86B89B4}" />
+      <media src="D:\Música\Artistas\N-Q\Pearl Jam\2009 - Ten (reissue)\Ten\02 Pearl Jam - Even Flow.mp3" albumTitle="Ten" albumArtist="Pearl Jam" trackTitle="Even Flow" trackArtist="Pearl Jam" duration="292649" tid="{82691A7C-8ED0-40CB-A221-6DE95AA59D37}" />
+      <media src="D:\Música\Artistas\A\Alestorm\Alestorm [2011] Back Through Time (Limited Edition) [320]\13 - You are a Pirate (Limited Edition Bonus Track).mp3" albumTitle="Back Through Time" albumArtist="Alestorm" trackTitle="You Are A Pirate (Limited Edition Bonus Track)" trackArtist="Alestorm" duration="93152" />
+    </seq>
+  </body>
+</smil>
