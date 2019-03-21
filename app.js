@@ -5,7 +5,6 @@ const WPLsPath = './WPLs';
 const JSONsPath = './JSONs'
 
 const getWPLs = async () => await fs.readdirSync(WPLsPath);
-getWPLs().then(r => console.log(r));
 
 const readWPLs = async file => JSON.parse(convert.xml2json(await fs.readFileSync(`${WPLsPath}/${file}`, 'utf8'), {
   compact: true,
@@ -13,7 +12,9 @@ const readWPLs = async file => JSON.parse(convert.xml2json(await fs.readFileSync
 
 const formatFileName = name => name.split(/[\\\\/:*?\"<>|]/).join('-')
 
-const writeJSON = async obj => fs.writeFileSync(`${JSONsPath}/${formatFileName(obj.title || obj.smil.head.title._text+ '.raw')}.json`, JSON.stringify(obj));
+const writeJSON = async obj => fs.writeFileSync(
+  `${JSONsPath}/${formatFileName(obj.title || obj.smil.head.title._text+ '.raw')}.json`,
+  JSON.stringify(obj));
 
 const createPlaylistObj = wpl => {
   return {
@@ -27,10 +28,10 @@ const createPlaylistObj = wpl => {
 (async () =>
   (await getWPLs()).forEach(async file => {
     const raw = await readWPLs(file);
-    
-    if (file == 'DubsTroniks.wpl')
-      console.log(createPlaylistObj(raw))
 
-    Promise.all([writeJSON(raw), writeJSON(createPlaylistObj(raw))]);
+    Promise.all([
+      writeJSON(raw),
+      writeJSON(createPlaylistObj(raw))
+    ]);
   }))
 ();
